@@ -146,7 +146,7 @@ while bossing and having 3 lines of buffs active. Ideally you want to reactivate
 glance over until the numbers disappear. This is a good indicator that it's time to reactivate it.
 ```
 
-### ![image](https://github.com/garydsong/MapleBurst/blob/main/src/assets/Classes/DawnWarrior/soul-eclipse.png) Soul Eclipse
+### ![image](https://github.com/garydsong/MapleBurst/blob/main/src/assets/Classes/DawnWarrior/rift-of-damnation.png) Rift of Damnation
 
 Duration: 40s
 
