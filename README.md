@@ -21,7 +21,8 @@ Congrats! You're playing the best class in the game!
 ## ☝️ First Phase - Initial Buffs
 Cast order: 
 ![image](https://github.com/garydsong/MapleBurst/blob/main/src/assets/Classes/DawnWarrior/empress-cygnuss-blessing.png) > 
-![image](https://github.com/garydsong/MapleBurst/blob/main/src/assets/Classes/DawnWarrior/cosmic-forge.png) 
+![image](https://github.com/garydsong/MapleBurst/blob/main/src/assets/Classes/DawnWarrior/cosmic-forge.png) > 
+![image](https://github.com/garydsong/MapleBurst/blob/main/src/assets/Classes/DawnWarrior/weapon-aura.png) 
 
 ### ![image](https://github.com/garydsong/MapleBurst/blob/main/src/assets/Classes/DawnWarrior/empress-cygnuss-blessing.png) Empress Cygnus's Blessing
 
