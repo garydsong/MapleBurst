@@ -1,6 +1,8 @@
 # Dawn Warrior
 
 Congrats! You're playing the best class in the game!
+![image](https://github.com/garydsong/MapleBurst/blob/main/src/assets/Classes/DawnWarrior/dw-class.png)
+
 
 ## TLDR
 ![image](https://github.com/garydsong/MapleBurst/blob/main/src/assets/Classes/DawnWarrior/empress-cygnuss-blessing.png) > 
